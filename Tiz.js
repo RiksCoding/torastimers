@@ -1,16 +1,20 @@
 // Array of event objects with a name and a target date (YYYY-MM-DD)
 const events = [
     {
-      name: "Caravan Holday",
-      date: "2025-04-21"
+      name: "Turkey Holday",
+      date: "2026-08-10"
     },
     {
-      name: "Back to School",
-      date: "2025-04-28"
+      name: "Mommy's Birthday",
+      date: "2026-08-09"
     },
     {
       name: "School Trip",
-      date: "2025-06-06"
+      date: "2026-07-01"
+    },
+    {
+      name: "School Finishes!",
+      date: "2026-07-17"
     }
   ];
   
