@@ -1,7 +1,7 @@
 // Array of event objects with a name and a target date (YYYY-MM-DD)
 const events = [
     {
-      name: "Turkey Holday",
+      name: "Holiday to Turkey",
       date: "2026-08-10"
     },
     {
